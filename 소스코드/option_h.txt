@@ -1,0 +1,7 @@
+Usage : ssu_score <STUDENTDIR> <TRUEDIR> [OPTION]
+Option :
+ -e	<DIRNAME>	printf error on 'DIRNAME/ID/qname_error.txt' file
+ -t	<QNAMES>	compile QNAME.C with -lpthread option
+ -h			printf usage
+ -p			print student's score and total average
+ -c	<IDS>		print ID's score
